@@ -548,7 +548,7 @@ reactivex==4.0.4
 readme-renderer==42.0
 redis==4.6.0
 #redshift-connector==2.0.914
-redshift-connector==2.0.915
+redshift-connector>=2.0.915
 referencing==0.30.2
 regex==2023.10.3
 requests-file==1.5.1
@@ -607,7 +607,7 @@ sqlalchemy-bigquery==1.8.0
 sqlalchemy-drill==1.1.2
 sqlalchemy-redshift==0.8.14
 sqlalchemy-spanner==1.6.2
-sqlparse==0.5.0
+sqlparse==0.4.4
 sshtunnel==0.4.0
 stack-data==0.6.3
 starkbank-ecdsa==2.2.0
